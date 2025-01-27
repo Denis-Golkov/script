@@ -1,5 +1,5 @@
 e:
-cd E:\denis\DevOps
+cd E:\path\to\file
 
 icacls ./dev-app.pem /inheritance:r
 
